@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nglovers.github.io
+Token: fb5d2872f5fe1e284e0b79a9c5abc22369ac50dadbb3a1d81c95ad202d86ab53
